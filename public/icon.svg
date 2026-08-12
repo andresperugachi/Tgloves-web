@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="TGloves">
+  <rect width="64" height="64" rx="12" fill="#3f5053"/>
+  <path d="M10 14h26v10h-8v27h-10V24h-8z" fill="#f7931d"/>
+  <path d="M38 32c0-9.4 7-16.5 16.6-16.5v10c-3.9 0-6.6 2.7-6.6 6.5s2.7 6.6 6.6 6.6V49C45 49 38 41.4 38 32z" fill="#ffffff"/>
+</svg>
