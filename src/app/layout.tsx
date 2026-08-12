@@ -89,7 +89,7 @@ export default function RootLayout({
             name: siteConfig.name,
             legalName: siteConfig.legalName,
             url: siteConfig.domain,
-            logo: `${siteConfig.domain}/logo-tgloves.svg`,
+            logo: `${siteConfig.domain}/logo-tgloves.png`,
             description: siteConfig.description,
             areaServed: "EC",
             contactPoint: [
